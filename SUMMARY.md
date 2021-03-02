@@ -22,4 +22,6 @@
   * [জাভাস্ক্রিপ্ট ডাটা টাইপ](undefined/undefined-4.md)
 * [জাভাস্ক্রিপ্ট অ্যাডভান্স](undefined-1/README.md)
   * [দিস](undefined-1/undefined.md)
+* [জাভাস্ক্রিপ্ট ইএস৬](undefined-2/README.md)
+  * [নতুন কি আছে?](undefined-2/undefined.md)
 
