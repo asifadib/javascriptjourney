@@ -9,3 +9,7 @@
 
 ## জাভাস্ক্রিপ্ট রিসোর্সেস <a id="javascript-resourches"></a>
 
+---
+
+* [জাভাস্ক্রিপ্ট বই](javascript-book.md)
+
