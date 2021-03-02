@@ -8,9 +8,6 @@
 * [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](f/javascript-environment-setup.md)
 * [জাভাস্ক্রিপ্ট ভ্যারিয়েবল](f/javascript-variable.md)
 * [জাভাস্ক্রিপ্ট ডাটা টাইপ](f/javascript-data-type.md)
-* [Untitled](f/untitled.md)
-* [Untitled](f/untitled-1.md)
-* [Untitled](f/untitled-2.md)
 
 ## জাভাস্ক্রিপ্ট রিসোর্সেস <a id="javascript-resourches"></a>
 
