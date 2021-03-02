@@ -2,15 +2,17 @@
 
 * [শুরুর কথা](README.md)
 
-## জাভাস্ক্রিপ্ট ব্যাসিক <a id="javascript-basic"></a>
+## জাভাস্ক্রিপ্ট ব <a id="f"></a>
 
-* [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারনা](javascript-basic/javascript-basic-discussion.md)
-* [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](javascript-basic/javascript-environment-setup.md)
-* [প্রথম প্রোগ্রাম](javascript-basic/hello-world.md)
-* [জাভাস্ক্রিপ্ট সিনট্যাক্স এন্ড স্টেটমেন্ট](javascript-basic/javascript-syntax-and-statement.md)
-* [জাভাস্ক্রিপ্ট কমেন্ট বা মন্তব্য লেখা](javascript-basic/javascript-comments.md)
-* [জাভাস্ক্রিপ্ট ভ্যারিয়েবল](javascript-basic/javascript-variable.md)
-* [জাভাস্ক্রিপ্ট ডাটা টাইপ](javascript-basic/javascript-data-type.md)
+* [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারনা](f/javascript-basic-discussion.md)
+* [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](f/javascript-environment-setup.md)
+* [জাভাস্ক্রিপ্ট সিনট্যাক্স এন্ড স্টেটমেন্ট](f/javascript-syntax-and-statement.md)
+* [জাভাস্ক্রিপ্ট কমেন্ট বা মন্তব্য লেখা](f/javascript-comments.md)
+* [জাভাস্ক্রিপ্ট ভ্যারিয়েবল](f/javascript-variable.md)
+* [জাভাস্ক্রিপ্ট ডাটা টাইপ](f/javascript-data-type.md)
+* [Untitled](f/untitled.md)
+* [Untitled](f/untitled-1.md)
+* [Untitled](f/untitled-2.md)
 
 ## জাভাস্ক্রিপ্ট রিসোর্সেস <a id="javascript-resourches"></a>
 
@@ -20,4 +22,6 @@
 * [ডকুমেন্টশন](doccumentation.md)
 * [টিউটোরিয়াল](tutorial.md)
 * [Hello](https://asifadib.com)
+
+## জাভাস্ক্রিপ্ট ব্যাসিক <a id="javascript-basic"></a>
 
