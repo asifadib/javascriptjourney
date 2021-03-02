@@ -8,6 +8,9 @@
 * [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](javascript-basic/javascript-environment-setup.md)
 * [প্রথম প্রোগ্রাম](javascript-basic/hello-world.md)
 * [জাভাস্ক্রিপ্ট সিনট্যাক্স এন্ড স্টেটমেন্ট](javascript-basic/javascript-syntax-and-statement.md)
+* [জাভাস্ক্রিপ্ট কমেন্ট বা মন্তব্য লেখা](javascript-basic/javascript-comments.md)
+* [জাভাস্ক্রিপ্ট ভ্যারিয়েবল](javascript-basic/javascript-variable.md)
+* [জাভাস্ক্রিপ্ট ডাটা টাইপ](javascript-basic/javascript-data-type.md)
 
 ## জাভাস্ক্রিপ্ট রিসোর্সেস <a id="javascript-resourches"></a>
 
