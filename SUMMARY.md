@@ -2,11 +2,11 @@
 
 * [শুরুর কথা](README.md)
 * [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারনা](javascript-basic-discussion.md)
+* [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](javascript-environment-setup.md)
 
 ## জাভাস্ক্রিপ্ট ব <a id="f"></a>
 
-* [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারনা](f/javascript-basic-discussions.md)
-* [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](f/javascript-environment-setup.md)
+* [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](f/javascript-environment-setups.md)
 
 ---
 
