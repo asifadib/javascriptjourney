@@ -19,4 +19,5 @@
   * [প্রথম প্রোগ্রাম](undefined/undefined.md)
   * [জাভাস্ক্রিপ্ট সিনট্যাক্স এন্ড স্টেটমেন্ট](undefined/undefined-1.md)
   * [জাভাস্ক্রিপ্ট কমেন্ট বা মন্তব্য লেখা](undefined/undefined-2.md)
+  * [জাভাস্ক্রিপ্ট ভ্যারিয়েবল](undefined/undefined-3.md)
 
