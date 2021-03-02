@@ -2,8 +2,8 @@
 
 * [শুরুর কথা](README.md)
 
-## ভূমিকা <a id="introduction"></a>
+## জাভাস্ক্রিপ্ট ব্যাসিক <a id="javascript-basic"></a>
 
-* [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারণা ও আলোচনা](introduction/javascript-basic-discussion.md)
-* [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](introduction/javascript-environment-setup.md)
+* [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারণা ও আলোচনা](javascript-basic/javascript-basic-discussion.md)
+* [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](javascript-basic/javascript-environment-setup.md)
 
