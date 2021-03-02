@@ -6,7 +6,6 @@
 
 * [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারনা](f/javascript-basic-discussion.md)
 * [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](f/javascript-environment-setup.md)
-* [জাভাস্ক্রিপ্ট ডাটা টাইপ](f/javascript-data-type.md)
 
 ## জাভাস্ক্রিপ্ট রিসোর্সেস <a id="javascript-resourches"></a>
 
