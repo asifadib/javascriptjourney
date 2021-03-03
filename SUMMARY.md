@@ -2,7 +2,7 @@
 
 * [শুরুর কথা](README.md)
 * [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারনা](javascript-primary-discussion.md)
-* [জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ](javascript-environment-setup.md)
+* [জাভাস্ক্রিপ্টের জন্য এনভায়রনমেন্ট সেটাপ](javascript-environment-setup.md)
 * [জাভাস্ক্রিপ্ট ব্যাসিক](undefined/README.md)
   * [প্রথম প্রোগ্রাম](undefined/undefined.md)
   * [জাভাস্ক্রিপ্ট সিনট্যাক্স এন্ড স্টেটমেন্ট](undefined/undefined-1.md)
