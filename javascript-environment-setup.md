@@ -12,6 +12,278 @@
 
 
 
+  
+&lt;!--  
+ /\* Font Definitions \*/  
+ @font-face  
+	{font-family:"Cambria Math";  
+	panose-1:2 4 5 3 5 4 6 3 2 4;  
+	mso-font-charset:0;  
+	mso-generic-font-family:roman;  
+	mso-font-pitch:variable;  
+	mso-font-signature:3 0 0 0 1 0;}  
+@font-face  
+	{font-family:Calibri;  
+	panose-1:2 15 5 2 2 2 4 3 2 4;  
+	mso-font-charset:0;  
+	mso-generic-font-family:swiss;  
+	mso-font-pitch:variable;  
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}  
+@font-face  
+	{font-family:"Nirmala UI";  
+	panose-1:2 11 5 2 4 2 4 2 2 3;  
+	mso-font-charset:0;  
+	mso-generic-font-family:swiss;  
+	mso-font-pitch:variable;  
+	mso-font-signature:-2130739165 33554506 512 0 1 0;}  
+@font-face  
+	{font-family:Georgia;  
+	panose-1:2 4 5 2 5 4 5 2 3 3;  
+	mso-font-charset:0;  
+	mso-generic-font-family:roman;  
+	mso-font-pitch:variable;  
+	mso-font-signature:647 0 0 0 159 0;}  
+@font-face  
+	{font-family:"Segoe UI";  
+	panose-1:2 11 5 2 4 2 4 2 2 3;  
+	mso-font-charset:0;  
+	mso-generic-font-family:swiss;  
+	mso-font-pitch:variable;  
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}  
+ /\* Style Definitions \*/  
+ p.MsoNormal, li.MsoNormal, div.MsoNormal  
+	{mso-style-unhide:no;  
+	mso-style-qformat:yes;  
+	mso-style-parent:"";  
+	margin-top:0in;  
+	margin-right:0in;  
+	margin-bottom:8.0pt;  
+	margin-left:0in;  
+	line-height:107%;  
+	mso-pagination:widow-orphan;  
+	font-size:11.0pt;  
+	font-family:"Calibri",sans-serif;  
+	mso-ascii-font-family:Calibri;  
+	mso-ascii-theme-font:minor-latin;  
+	mso-fareast-font-family:Calibri;  
+	mso-fareast-theme-font:minor-latin;  
+	mso-hansi-font-family:Calibri;  
+	mso-hansi-theme-font:minor-latin;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:minor-bidi;}  
+h2  
+	{mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-qformat:yes;  
+	mso-style-link:"Heading 2 Char";  
+	mso-margin-top-alt:auto;  
+	margin-right:0in;  
+	mso-margin-bottom-alt:auto;  
+	margin-left:0in;  
+	mso-pagination:widow-orphan;  
+	mso-outline-level:2;  
+	font-size:18.0pt;  
+	font-family:"Times New Roman",serif;  
+	mso-fareast-font-family:"Times New Roman";}  
+h3  
+	{mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-qformat:yes;  
+	mso-style-link:"Heading 3 Char";  
+	mso-margin-top-alt:auto;  
+	margin-right:0in;  
+	mso-margin-bottom-alt:auto;  
+	margin-left:0in;  
+	mso-pagination:widow-orphan;  
+	mso-outline-level:3;  
+	font-size:13.5pt;  
+	font-family:"Times New Roman",serif;  
+	mso-fareast-font-family:"Times New Roman";}  
+h4  
+	{mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-qformat:yes;  
+	mso-style-link:"Heading 4 Char";  
+	mso-margin-top-alt:auto;  
+	margin-right:0in;  
+	mso-margin-bottom-alt:auto;  
+	margin-left:0in;  
+	mso-pagination:widow-orphan;  
+	mso-outline-level:4;  
+	font-size:12.0pt;  
+	font-family:"Times New Roman",serif;  
+	mso-fareast-font-family:"Times New Roman";}  
+a:link, span.MsoHyperlink  
+	{mso-style-noshow:yes;  
+	mso-style-priority:99;  
+	color:blue;  
+	text-decoration:underline;  
+	text-underline:single;}  
+a:visited, span.MsoHyperlinkFollowed  
+	{mso-style-noshow:yes;  
+	mso-style-priority:99;  
+	color:\#954F72;  
+	mso-themecolor:followedhyperlink;  
+	text-decoration:underline;  
+	text-underline:single;}  
+span.Heading2Char  
+	{mso-style-name:"Heading 2 Char";  
+	mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-locked:yes;  
+	mso-style-link:"Heading 2";  
+	mso-ansi-font-size:18.0pt;  
+	mso-bidi-font-size:18.0pt;  
+	font-family:"Times New Roman",serif;  
+	mso-ascii-font-family:"Times New Roman";  
+	mso-fareast-font-family:"Times New Roman";  
+	mso-hansi-font-family:"Times New Roman";  
+	mso-bidi-font-family:"Times New Roman";  
+	font-weight:bold;}  
+span.Heading3Char  
+	{mso-style-name:"Heading 3 Char";  
+	mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-locked:yes;  
+	mso-style-link:"Heading 3";  
+	mso-ansi-font-size:13.5pt;  
+	mso-bidi-font-size:13.5pt;  
+	font-family:"Times New Roman",serif;  
+	mso-ascii-font-family:"Times New Roman";  
+	mso-fareast-font-family:"Times New Roman";  
+	mso-hansi-font-family:"Times New Roman";  
+	mso-bidi-font-family:"Times New Roman";  
+	font-weight:bold;}  
+span.Heading4Char  
+	{mso-style-name:"Heading 4 Char";  
+	mso-style-priority:9;  
+	mso-style-unhide:no;  
+	mso-style-locked:yes;  
+	mso-style-link:"Heading 4";  
+	mso-ansi-font-size:12.0pt;  
+	mso-bidi-font-size:12.0pt;  
+	font-family:"Times New Roman",serif;  
+	mso-ascii-font-family:"Times New Roman";  
+	mso-fareast-font-family:"Times New Roman";  
+	mso-hansi-font-family:"Times New Roman";  
+	mso-bidi-font-family:"Times New Roman";  
+	font-weight:bold;}  
+p.hh, li.hh, div.hh  
+	{mso-style-name:hh;  
+	mso-style-unhide:no;  
+	mso-margin-top-alt:auto;  
+	margin-right:0in;  
+	mso-margin-bottom-alt:auto;  
+	margin-left:0in;  
+	mso-pagination:widow-orphan;  
+	font-size:12.0pt;  
+	font-family:"Times New Roman",serif;  
+	mso-fareast-font-family:"Times New Roman";}  
+.MsoChpDefault  
+	{mso-style-type:export-only;  
+	mso-default-props:yes;  
+	font-family:"Calibri",sans-serif;  
+	mso-ascii-font-family:Calibri;  
+	mso-ascii-theme-font:minor-latin;  
+	mso-fareast-font-family:Calibri;  
+	mso-fareast-theme-font:minor-latin;  
+	mso-hansi-font-family:Calibri;  
+	mso-hansi-theme-font:minor-latin;  
+	mso-bidi-font-family:"Times New Roman";  
+	mso-bidi-theme-font:minor-bidi;}  
+.MsoPapDefault  
+	{mso-style-type:export-only;  
+	margin-bottom:8.0pt;  
+	line-height:107%;}  
+@page WordSection1  
+	{size:8.5in 11.0in;  
+	margin:1.0in 1.0in 1.0in 1.0in;  
+	mso-header-margin:.5in;  
+	mso-footer-margin:.5in;  
+	mso-paper-source:0;}  
+div.WordSection1  
+	{page:WordSection1;}  
+--&gt;  
+
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+
+যেকোনো প্রোগ্রামিং ভাষা নিয়ে কাজ করতে হলে তার একটা ইনভাইরোমেন্ট সেটাপ করার দরকার হয় । একটা কম্পাইলার একটা টেক্সট ইডিটর অনেক গুলো টুলস একসাথে করে একটা ইনভাইরোমেন্ট সেটাপ করার দরকার হয় তারপরে গিয়েই একটা কোড রান করতে পারবেন । যেকোনো প্রোগ্রামিং ভাষার ক্ষেত্রেই এই কথাটা প্রযোজ্য । তবে জাভাস্ক্রিপ্ট এর ক্ষেত্রে বেপারটা খুবই সহজ আপনার পিসিতে একটা ভ্রাউজার আর টেক্সট ইডিটর হলেই জাভাস্ক্রিপ্ট কোড রান করা যায়। আর এভাবেই এতোদিন সবাই জাভাস্ক্রিপ্ট কোড সবাই রান করে এসেছে ২০১৫ এর আগে পর্যন্ত ।
+
+২০১৫ সালে যখন জাভাস্ক্রিপ্ট এর নতুন ভার্সন মার্কেটে আসলো তখন অবশ্যই অনেক কিছু পরিবর্তন হয়ে গিয়ছে জাভাস্ক্রিপ্টের ওয়ার্কফ্লো টা পরিবর্তন হয়ে গিয়েছে অনেক নতুন নতুন ফিচার চলে এসেছে তখন আর বেসিক ভাবে এইচটি এম এল পেইজের সাহায্যে জাভাস্ক্রিপ্ট ফাইলকে লিংক আপ করে ব্রাউজারের মাধ্যমে ওপেন করে কোড রান করার সিস্টেমটা পরিবর্তন হয়ে গিয়েছে , এটা এখনো অনেকে ব্যবহার করে কিন্তু মডার্ন জাভাস্ক্রিপ্ট এভাবে চলে না। **নোড** **জে** **এস** চলে আসাতে এখন আর জাভাস্ক্রিপ্ট কোড রান করার জন্য ব্রাউজার ও প্রয়োজন হয়না । অন্যান্য প্রোগ্রামিং ভাষার এর মতই কম্পাইলার ইন্সটল করে টার্মিনালে কোড লিখে কোডটা রান করবেন জাভাস্ক্রিপ্টের ক্ষেত্রে এইটা সত্য ছিলোনা কিন্তু **নোড** **জে** **এস** চলে আসার পর জাভাস্ক্রিপ্টের জন্য ও এটা সত্য হয়ে গেছে।
+
+নোট: আপনি চাইলে এইচটি এম এল ফাইলের সাথে লিংক করে ও জাভাস্ক্রিপ্ট কোড ব্রাউজারের কনসোলে রান করতে পারবেন এবং শিখতে পাড়বেন
+
+কিন্তু আমরা এই কোর্সে জাভাস্ক্রিপ্টকে এমন ভাবে শিখবো ফ্রন্ট ইন্ড এ যেভাবে কাজে লাগে জাভাস্ক্রিপ্ট, ব্যাক ইন্ড এ ও সেভাবে কাজে লাগে, মোবাইল এপ্লিকেশনেও সেভাবে কাজে লাগে এই রকম একটা মনোভাব নিয়ে আমরা জাভাস্ক্রিপ্ট শিখবো । আগের টিউটোরিয়াল গুলো দেখলে বুঝা যায় না ফ্রন্ট ইন্ড এবং ডোম ম্যানুপুলেশন ছাড়া আর কোন কাজে লাগে জাভাস্ক্রিপ্ট। আমরা এমন ভাবে জাভাস্ক্রিপ্ট শিখতে যাচ্ছি যে, আপনারা যেনো বুঝতে পারেন জাভাস্ক্রিপ্ট এখন একটা মাল্টি পারপাস প্রোগ্রামিং ভাষা এবং হাই লেভেল প্রোগ্রামিং ভাষা।
+
+**চলুন** **আর** **কথা** **না** **বারিয়ে** **ইনভাইরোমেন্ট** **সেটাপ** **শুরু** **করা** **যাক**
+
+১। প্রথমে আমরা নোড জে এস ইন্সটল করবো। নোড জে এস ডাউনলোড করার জন্য এই সাইটে ভিসিট করুন [**Node.Js**](https://nodejs.org/en/), ভিসিট করার পর এল টি এস ভার্সনটা আপনার পিসিতে ডাউনলোড করে নিন।
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+
+তারপর অন্যান্য সফটওয়্যার যেভাবে ইন্সটল করেন **নোড** **জে** **এস** ও সেভাবেই ইন্সটল করে নেন।
+
+২। কোড লিখার জন্য আমাদের একটা টেক্সট ইডিটর লাগবে। আমার পছন্দের টেক্সট ইডিটর হলো Visual Studio Code. আমি VS Code এইটাই ব্যবহার করবো এইটা ফ্রি এবং খুবই ভালো এবং পাওয়ারফুল একটা টেক্সট ইডিটর। আপনি চাইলে আপনার পছন্দ অনুযায়ি ডাউনলোড করে নিতে পারেন।
+
+VS Code ডাউনলোড করার জন্য এই সাইটে ভিসিট করুন [Visual Studio Code](https://code.visualstudio.com/)। ভিসিট করার পর স্টেবল ভার্সনটা আপনার পিসিতে ডাউনলোড করে নিন।
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+
+তারপর অন্যান্য সফটওয়্যার যেভাবে ইন্সটল করেন Visual Studio Code ও সেভাবেই ইন্সটল করে নেন।
+
+৩। টেক্সট ইডিটর এর পর আমাদের লাগবে টার্মিনাল। আমি যেহেতু অপারেটিং সিস্টেম হিসেবে উইন্ডোজ ব্যবহার করবো তাই লিনাক্সের সকল কমান্ড রান করার জন্য আমি টার্মিনাল হিসাবে গিট ব্যাস ইন্সটল করে নিবো
+
+Git Bash ডাউনলোড করার জন্য এই সাইটে ভিসিট করুন [**Git Bash**](https://git-scm.com/)। ভিসিট করার পর স্টেবল ভার্সনটা আপনার পিসিতে ডাউনলোড করে নিন।
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+
+তারপর অন্যান্য সফটওয়্যার যেভাবে ইন্সটল করেন Git Bash ও সেভাবেই ইন্সটল করে নেন।
+
+উপরের সব কিছু ইন্সটল করা হয়ে গেলে প্রথমে টার্মিনালটা চালু করবেন। টার্মিনাল চালু করার জন্য ডেক্সটপের মাঝে মাউসের রাইট বাটনে ক্লিক করবেন নিচের মতো অপশন আসবে
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+
+তারপর Git Bash Here এর মাঝে ক্লিক করবেন নিচের মতো টার্মিনাল স্ক্রিন চালু হবে।
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+
+টার্মিনাল চালু করার পর সবকিছু ঠিকঠাক ভাবে হয়েছে কিনা তা দেখার জন্য টার্মিনালে node -v এই কমান্ডটা লিখে ইন্টার দিবেন নিচের ছবির মতো করে।
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+
+Node -v এই কমান্ডটা রান করার পর যদি দেখেন টার্মিনালে ভার্সন নাম্বারটা দেখাচ্ছে তার মানে সব ঠিকঠাক ভাবেই ইন্সটল হয়েছে।
+
+তারপর আর একটা জিনিস চেক করবেন **নোড** **জে** **এস** এর সাথে একটা **NPM** বান্ডেলার দেয় তা ঠিক আছে কিনা তা দেখার জন্য npm -v এই কমান্ডটা লিখে ইন্টার দিবেন নিচের ছবির মতো করে।
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+
+Npm -v এই কমান্ডটা দেয়ার পর যদি দেখেন ভার্সন নাম্বারটা টার্মিনালে দেখাচ্ছে তার মানে সব ঠিকঠাক ভাবেই ইন্সটল হয়েছে। তারমানে এখন আমাদের পিসি রেডি হয়ে গিয়েছে জাভাস্ক্রিপ্ট কোড লিখে রান করার জন্য।
+
+চলুন তাহলে এবার একটা জাভাস্ক্রিপ্ট কোড রান করে দেখি কোড রান করার জন্য প্রথমে টার্মিনালে node লিখে কমান্ড দিতে হবে তারপর জাভাস্ক্রিপ্ট কোড রান করার জন্য প্রস্তুত হয়ে যাবে টার্মিনাল। যেকোনো জাভাস্ক্রিপ্ট কোড এখানে ভ্যালিড কোড।
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+
+এখানে জাভাস্ক্রিপ্ট কোড রান করা পর ব্রাউজারে যেভাবে আউটপুট দেখাতো ঠিক সেভাবেই আউটপুট দেখাচ্ছে।
+
+জাভাস্ক্রিপ্ট নিয়ে কাজ করার জন্য এই হচ্ছে ইনভাইরোমেন্ট সেটাপ। পরবর্তী চ্যাপ্টার হতে আমরা হাতেকলমে জাভাস্কিপ্ট শিখা শুরু করবো।
+
+আমরা জাভাস্ক্রিপ্ট শিখার মাঝে মাঝে টার্মিনালের কিছু কমান্ডও শিখবো। আজকে আমরা যে কমান্ডটা শিখবো তা হলো কিভাবে টার্মিনালের স্ক্রিন ক্লিয়ার করতে হয়। তারজন্য আমাদের **clear** কমান্ডটা দিতে হবে। নিচে দেখানো হলো
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+
+তাহলেই টার্মিনালের স্ক্রিন ক্লিয়ার হয়ে যাবে নিচের দেখানো ছবির মতো।
+
+![](file:///C:/Users/ASIFAD~1/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+
+পরবর্তী চ্যাপ্টার হতে আমরা হাতেকলমে জাভাস্কিপ্ট শিখা শুরু করবো।
+
+[জাভাস্ক্রিপ্ট ফেইসবুক ডিসকাসন গ্রুপে](https://web.facebook.com/groups/javascript.journey/) যুক্ত হতে চাইলে জয়েন করতে পাড়েন।
+
+যাই হোক, অনেক কথা হলো। আশা করি, জাভাস্ক্রিপ্টের জন্য ইনভাইরোমেন্ট সেটাপ কিভাবে করে সেটা বোঝাতে পেরেছি। তারপরও যদি বুঝতে কোনো অসুবিধা হয় বা কোনো প্রশ্ন থাকলে কমেন্টে জানাতে পারেন।
+
+আজ এ পর্যন্তই। ধন্যবাদ
+
 
 
 
