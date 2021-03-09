@@ -75,9 +75,9 @@
 
 দিন দিন এর চাহিদা বেড়েই চলেছে। একটু খেয়াল করলেই দেখতে পাবেন জাভাস্ক্রিপ্টের ব্যাবহার এখন সব জায়গায়। বড় বড় ওয়েবসাইট গুলোতে ৭০% থেকে ৭৫% কোডই থাকে জাভাস্ক্রিপ্টের। আপনি যদি ব্রাউজারের জাভাস্ক্রিপ্ট Disable করে ওয়েব ব্রাউজ করতে যান তাহলে দেখবেন বেশিরভাগ ওয়েবসাইট ঠিকঠাক ভাবে কাজ করছে না।
 
-জনপ্রিয় প্রোগ্রামার এবং Stack Overflow Co-founder "Jeff Atwood" বলেছেন ...
+জনপ্রিয় প্রোগ্রামার এবং Stack Overflow Co-founder "**Jeff Atwood**" বলেছেন ...
 
-> " Any application that can be written in JavaScript, will eventually be written in JavaScript."
+> **" Any application that can be written in JavaScript, will eventually be written in JavaScript."**
 
 ### **যা** **যা** **শিখবো** **এই** **টিউটোরিয়াল** **সিরিজে**
 
