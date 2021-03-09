@@ -73,11 +73,15 @@
 
 **Node.js** এর কল্যাণে এখন আপনি জাভাস্ক্রিপ্ট শিখেই ব্যাক এন্ড ডেভেলপার হতে পারবেন।
 
-\*\*\*\*
-
 **জাভাস্ক্রিপ্টের ভবিষ্যৎ:** নিচের ছবি দেখেই বুঝতে পারছেন জাভাস্ক্রিপ্ট এর কি পরিমান চাহিদা ও জনপ্রিয়তা রয়েছে। স্ট্যাক ওভারফ্লো ডেভেলপার সার্ভে ২০২০ এর নাম্বার ওয়ান ল্যাংগুয়েজ জাভাস্ক্রিপ্ট নিয়ে আর বেশি কিছু বলতে হবেনা আশাকরি। বিস্তারিত জানতে ক্লিক করুন : [Stack Overflow](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages)
 
 ![Most Popular Technologies 2020 Stack Overflow Developer Survey](.gitbook/assets/image%20%282%29.png)
+
+দিন দিন এর চাহিদা বেড়েই চলেছে। একটু খেয়াল করলেই দেখতে পাবেন জাভাস্ক্রিপ্টের ব্যাবহার এখন সব জায়গায়। বড় বড় ওয়েবসাইট গুলোতে ৭০% থেকে ৭৫% কোডই থাকে জাভাস্ক্রিপ্টের। আপনি যদি ব্রাউজারের জাভাস্ক্রিপ্ট Disable করে ওয়েব ব্রাউজ করতে যান তাহলে দেখবেন বেশিরভাগ ওয়েবসাইট ঠিকঠাক ভাবে কাজ করছে না।
+
+জনপ্রিয় প্রোগ্রামার এবং Stack Overflow Co-founder "Jeff Atwood" বলেছেন ...
+
+> " Any application that can be written in JavaScript, will eventually be written in JavaScript."
 
 ### **যা** **যা** **শিখবো** **এই** **টিউটোরিয়াল** **সিরিজে**
 
@@ -89,7 +93,7 @@
 
 আজ এতটুকুই। হ্যাপি কোডিং!
 
-আমার সাথে যুক্ত হতে চাইলে ফলো করেন
+আমার সাথে যুক্ত হতে চাইলে ফলো করতে পাড়েন!
 
 [Github](https://github.com/asifadib) । [Facebook](https://web.facebook.com/asifadib.official) \| [Linkedin](https://www.linkedin.com/in/asifadib/) \| [Twitter](https://twitter.com/asifadib780)
 
