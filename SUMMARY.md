@@ -9,6 +9,7 @@
   * [জাভাস্ক্রিপ্ট কমেন্ট বা মন্তব্য লেখা](javascript-basic/javascript-comments.md)
   * [জাভাস্ক্রিপ্ট ভ্যারিয়েবল](javascript-basic/javascript-variable.md)
   * [জাভাস্ক্রিপ্ট ডাটা টাইপ](javascript-basic/javascript-data-types.md)
+  * [স্টাটিক ও ডায়নামিক কি?](javascript-basic/undefined.md)
 * [জাভাস্ক্রিপ্ট অ্যাডভান্স](javascript-advanced/README.md)
   * [দিস](javascript-advanced/undefined.md)
 * [জাভাস্ক্রিপ্ট ইএস৬](javascript-es6/README.md)
