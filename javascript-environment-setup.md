@@ -86,9 +86,7 @@ Npm -v এই কমান্ডটা দেয়ার পর যদি দে�
 
 আমার সাথে যুক্ত হতে চাইলে ফলো করতে পাড়েন!
 
-[Github](https://github.com/asifadib) । [Facebook](https://web.facebook.com/asifadib.official) \| [Linkedin](https://www.linkedin.com/in/asifadib/) \| [Twitter](https://twitter.com/asifadib780)
-
-
+[**Youtube**](https://www.youtube.com/channel/UCL5VZ6UCPhA1EyOTWxrRBZQ?sub_confirmation=1) **\|** [**Github**](https://github.com/asifadib) **।** [**Facebook**](https://web.facebook.com/asifadib.official) ****
 
 
 
