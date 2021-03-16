@@ -4,7 +4,7 @@
 * [জাভাস্ক্রিপ্ট সম্পর্কে প্রাথমিক ধারনা](javascript-primary-discussion.md)
 * [জাভাস্ক্রিপ্টের জন্য এনভায়রনমেন্ট সেটাপ](javascript-environment-setup.md)
 * [জাভাস্ক্রিপ্ট ব্যাসিক](javascript-basic/README.md)
-  * [প্রথম প্রোগ্রাম](javascript-basic/first-program.md)
+  * [প্রথম প্রোগ্রাম এবং কোড স্ট্রাকচার](javascript-basic/first-program-and-code-structure.md)
   * [জাভাস্ক্রিপ্ট সিনট্যাক্স এন্ড স্টেটমেন্ট ভ্যালু](javascript-basic/javascript-syntax-and-statement.md)
   * [জাভাস্ক্রিপ্ট কমেন্ট বা মন্তব্য লেখা](javascript-basic/javascript-comments.md)
   * [জাভাস্ক্রিপ্ট ভ্যারিয়েবল](javascript-basic/javascript-variable.md)
